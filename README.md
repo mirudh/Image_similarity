@@ -18,6 +18,10 @@ Install the below packages using 'pip install' command
 Run the jupyter notebook 
 
 ==============================================
-Note: Give 2 input images, as specified in the code. 
+
+Note: 
+Give 2 input images, as specified in the code. 
+
 Your output will be saved in the directory you specify. 
+
 ==============================================
