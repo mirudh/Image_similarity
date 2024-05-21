@@ -4,7 +4,11 @@ The structural similarity index measure (SSIM) is a method for predicting the pe
 **Installing the dependencies**
 
 Create a virtual environment using the following code:
+
 --> python -m venv sim_vnv
+
+Install the below packages using 'pip install' command
+
 1. Scikit image
 2. opencv-python
 3. numpy
@@ -12,4 +16,8 @@ Create a virtual environment using the following code:
 **Testing**
 
 Run the jupyter notebook 
-Note: Give 2 input images, as specified in the code. Your output will be saved in the directory you specify. 
+
+==============================================
+Note: Give 2 input images, as specified in the code. 
+Your output will be saved in the directory you specify. 
+==============================================
